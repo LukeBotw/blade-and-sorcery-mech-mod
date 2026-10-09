@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+Mod/MechSuit/*.dll
+Mod/MechSuit/*.pdb
